@@ -2,5 +2,5 @@
 
 Aprendendo Python
 
-- [ ] Sintaxe
-- [ ] Python na orientaçao objetos
+- [x] Sintaxe
+- [x] Python na orientaçao objetos
