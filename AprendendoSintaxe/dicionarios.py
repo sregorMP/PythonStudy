@@ -2,7 +2,7 @@
 
 livros = {}
 
-livros['titulo'] = 'Aprenda a programar em python em 6hs'
+livros['titulo'] = 'Aprenda a programar '
 livros['ano'] = 2018
 
 pessoa = {'nome':'José da Silva', 'idade':30, 'altura': 1.8, 'peso': 93}

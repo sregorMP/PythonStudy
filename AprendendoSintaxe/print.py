@@ -31,3 +31,30 @@ print('O aluno %s %s, tem altura igual a %f ' % (nome, sobrenome, altura))
 # # str(2.3)
 # conversão valores em string
 print('Aluno ' + nome + ' Tem altura igual a ' + str(altura))
+
+# concatenar
+quantidade = 10
+estoque = 20
+print("a quantidade %d e o estoque = %d " % (quantidade, estoque))
+
+# inteiro
+# float
+# bool
+# string
+# qual o tipo?
+print(type(estoque))
+
+# manipulando strings
+# contando
+str = 'ccc bbb eee '
+print(str.count('c'))
+print(str)
+# quant caracteres
+print(len(str))
+# maiuscula
+str = str.upper()
+print(str)
+
+# iniciais maiusculas
+str = str.title()
+print(str)

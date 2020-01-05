@@ -14,8 +14,10 @@ print('======looping for4 para cada elemento apresentara o valor======')
 carros = ['Camaro', 'Ranger', 'Pajero', 'Hilux']
 for a in carros:
     print(a)
+
 print('Mesmo Resultado')
+
 for a in range(len(carros)):
     print(carros[a])
-    
+
 print('Contem ' + str(len(carros)) + ' carros')

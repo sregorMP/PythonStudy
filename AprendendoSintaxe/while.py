@@ -1,4 +1,4 @@
-#Looping while
+# Looping while
 print('Exemplo while')
 n = 0
 while n <= 10:
